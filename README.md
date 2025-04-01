@@ -45,7 +45,7 @@ Além de apresentar os projetos do desenvolvedor, a aplicação incorpora agente
 2. Acesse o diretório do projeto:
 
     ```sh
-    cd portfowell
+    cd portfoWell
     ```
 
 3. Acesse sua conta no [Supabase](https://supabase.com) ou crie uma nova conta.
