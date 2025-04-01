@@ -1,0 +1,5 @@
+### Pegar todos os projetos
+GET http://localhost:4000/projetos
+
+### Pegar um projeto por id
+GET http://localhost:4000/projetos/1

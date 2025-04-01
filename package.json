@@ -1,0 +1,13 @@
+{
+  "name": "portfowell",
+  "version": "1.0.0",
+  "description": "<div align=\"center\">",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx concurrently \"cd backend && npm run dev\" \" cd frontend && npm run dev\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}

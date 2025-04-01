@@ -1,0 +1,5 @@
+### Pegar todas as tecnologias
+GET http://localhost:4000/tecnologias
+
+### Pegar destaques das tecnologias
+GET http://localhost:4000/tecnologias/destaques
