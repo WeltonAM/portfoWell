@@ -39,7 +39,7 @@ Além de apresentar os projetos do desenvolvedor, a aplicação incorpora agente
 1. Clone este repositório:
 
     ```sh
-    git clone https://github.com/WeltonAM/portfowell-ai-agent.git
+    git clone https://github.com/WeltonAM/portfoWell
     ```
 
 2. Acesse o diretório do projeto:
@@ -67,16 +67,16 @@ Além de apresentar os projetos do desenvolvedor, a aplicação incorpora agente
 8. Após importar o fluxo, clique no primeiro nó, acesse `webhooks url`, clique em `Production URL` e copie o valor dessa URL.
    **Obs: Lembre-se de ativar o workflow no n8n**
 
-9. Crie um arquivo `.env` na pasta web e preencha com as seguintes informações, sendo que a URL da API é a URL do backend e a segunda variável deve ter como valor a URL que extraimos no n8n:
+9. Crie um arquivo `.env` na pasta frontend e preencha com as seguintes informações, sendo que a URL da API é a URL do backend e a segunda variável deve ter como valor a URL que extraimos no n8n:
 
     ```
     NEXT_PUBLIC_API_URL=
     CHAT_WEBHOOK=
     ```
 
-10. Instale as dependências dos projetos `web` e `backend` com o comando `npm i` em cada uma das pastas
+10. Instale as dependências dos projetos `frontend` e `backend` com o comando `npm i` em cada uma das pastas
 
-11. Abra as pastas `web` e `backend` em dois terminais diferentes e rode o comando `npm run dev` em cada um dos terminais para executar o projeto.
+11. Abra as pastas `frontend` e `backend` em dois terminais diferentes e rode o comando `npm run dev` em cada um dos terminais para executar o projeto.
 
 ## 🗒️ Features do projeto 🗒️
 
